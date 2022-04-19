@@ -26,6 +26,12 @@ KL-divergence의 정확한 식은 이렇습니다. 대개 DKL(p|q) 또는 KL(p|q
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/KL.jpg" width="40%">
 
+#### 모평균 p(x)를 샘플 데이터의 기댓값(=평균)으로 구하고 학습가능한 θ에 대해 모델을 학습시켜 parametric distribution q(x|θ)를 p(x)에 근사시킬 수 있다! 유레카!
+
+KL-divergence와 log likelihood 우리가 전체를 알 수 없는 분포 p(x) 에서 추출되는 데이터를 우리가 모델링하고 싶다고 가정해보겠습니다. 우리는 이 분포에 대해 어떤 학습 가능한 parameter θ의 parametric distribution q(x|θ) 를 이용해 근사시킨다고 가정해보겠습니다. 이 θ 를 결정하는 방법 중 하나는 바로 p(x)와 q(x|θ) 사이의 KL-divergence 를 최소화시키는 θ 를 찾는 것입니다. 우리가 p(x) 자체를 모르기 때문에 이는 직접 해내기는 불가능합니다. 하지만 우리는 이 p(x)에서 추출된 몇 개의 샘플 데이터(training set)는 압니다(xn, for n=1,…,N). 따라서 p(x)에 대한 기댓값은 그 샘플들의 평균을 통해 구할 수 있습니다.
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/KL-divergence와 log likelihood.PNG" width="40%">
+
 [MCMC, 마코프체인, 몬테카를로](https://4four.us/article/2014/11/markov-chain-monte-carlo)
 
 [Gibbs Sampling](https://ratsgo.github.io/statistics/2017/05/31/gibbs/)
