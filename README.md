@@ -10,11 +10,11 @@ Given two random variables that are defined on the same probability space,[1] th
 
 [KL divergence, Kullback-Leibler divergence, Jensen-Shannon divergence](https://hyunw.kim/blog/2017/10/27/KL_divergence.html)
 
-Cross entropy, H(p,q)를 전개해보면 그 안에 이미 확률분포 p의 엔트로피가 들어있습니다. 그 H(p)에 무언가 더해진 것이 cross entropy입니다. 이때 이 무언가 더해지는 것이 바로 “정보량 차이”인데, 이 정보량 차이가 바로 KL-divergence입니다. 직관적으로 정리를 해보겠습니다. KL-divergence는 p와 q의 cross entropy에서 p의 엔트로피를 뺀 값입니다. 결과적으로 두 분포의 차이를 나타냅니다.
+쿨백-라이블러 발산(Kullback–Leibler divergence, KLD)은 두 확률분포의 차이를 계산하는 데에 사용하는 함수로, 어떤 이상적인 분포에 대해, 그 분포를 근사하는 다른 분포를 사용해 샘플링을 한다면 발생할 수 있는 정보 엔트로피 차이를 계산한다. 상대 엔트로피(relative entropy), 정보 획득량(information gain), 인포메이션 다이버전스(information divergence)라고도 한다.
+
+#### Cross entropy, H(p,q)를 전개해보면 그 안에 이미 확률분포 p의 엔트로피가 들어있습니다. 그 H(p)에 무언가 더해진 것이 cross entropy입니다. 이때 이 무언가 더해지는 것이 바로 “정보량 차이”인데, 이 정보량 차이가 바로 KL-divergence입니다. 직관적으로 정리를 해보겠습니다. KL-divergence는 p와 q의 cross entropy에서 p의 엔트로피를 뺀 값입니다. 결과적으로 두 분포의 차이를 나타냅니다.
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/crossentropy.PNG" width="40%">
-
-쿨백-라이블러 발산(Kullback–Leibler divergence, KLD)은 두 확률분포의 차이를 계산하는 데에 사용하는 함수로, 어떤 이상적인 분포에 대해, 그 분포를 근사하는 다른 분포를 사용해 샘플링을 한다면 발생할 수 있는 정보 엔트로피 차이를 계산한다. 상대 엔트로피(relative entropy), 정보 획득량(information gain), 인포메이션 다이버전스(information divergence)라고도 한다.
 
 [MCMC, 마코프체인, 몬테카를로](https://4four.us/article/2014/11/markov-chain-monte-carlo)
 
