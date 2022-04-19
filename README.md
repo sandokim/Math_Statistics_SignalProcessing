@@ -8,6 +8,8 @@ Given two random variables that are defined on the same probability space,[1] th
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Joint probability distribution.PNG" width="40%">
 
+[KL divergence, Kullback-Leibler divergence, Jensen-Shannon divergence](https://hyunw.kim/blog/2017/10/27/KL_divergence.html)
+
 [MCMC, 마코프체인, 몬테카를로](https://4four.us/article/2014/11/markov-chain-monte-carlo)
 
 [Gibbs Sampling](https://ratsgo.github.io/statistics/2017/05/31/gibbs/)
