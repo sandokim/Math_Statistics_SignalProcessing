@@ -24,7 +24,7 @@ KL-divergence의 정확한 식은 이렇습니다. 대개 DKL(p|q) 또는 KL(p|q
 
 #### 수식이 이해가 안가면 직접 써보면 이해를 잘할 수 있습니다. (진리)
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/KL.PNG" width="60%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/KL.jpg" width="40%">
 
 [MCMC, 마코프체인, 몬테카를로](https://4four.us/article/2014/11/markov-chain-monte-carlo)
 
