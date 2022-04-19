@@ -18,7 +18,7 @@ Given two random variables that are defined on the same probability space,[1] th
 
 KL-divergence의 정확한 식은 이렇습니다. 대개 DKL(p|q) 또는 KL(p|q)로 표현합니다.
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/KL-divergence.PNG" width="40%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/KL-divergence.PNG" width="60%">
 
 우리가 대개 cross entropy를 minimize 하는 것은, 어차피 H(p)는 고정된 상수값이기 때문에 결과적으로는 KL-divergence를 minimize 하는 것과 같습니다.
 
