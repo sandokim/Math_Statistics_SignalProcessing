@@ -80,3 +80,16 @@ MAP는 베이즈추론을 기반으로 합니다. 관측결과 뿐만 아니라 
 Probability density function (PDF) is a statistical expression that defines a probability distribution (the likelihood of an outcome) for a discrete random variable (e.g., a stock or ETF) as opposed to a continuous random variable.
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/확률밀도함수.PNG" width="60%">
+
+### Cumulative Distribution Function
+확률론에서, 누적 분포 함수(cumulative distribution function, 약자 cdf)는 주어진 확률 변수가 특정 값보다 작거나 같은 확률을 나타내는 함수이다.
+
+CDF는 normal distribution이 축적됐다고 생각하면 쉽게 보인다.
+
+#### Normal distribution, 정규분포
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/normaldistribution.PNG" width="60%">
+
+#### Cumulative distribution, 누적분포
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/cdf.PNG" width="60%">
