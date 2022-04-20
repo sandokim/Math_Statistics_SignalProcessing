@@ -129,7 +129,7 @@ ex) ill-posed problem의 예시로 한 장의 저해상도 이미지에 대응�
 #### [베르누이분포](https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%A5%B4%EB%88%84%EC%9D%B4_%EB%B6%84%ED%8F%AC)
 베르누이 분포(Bernoulli Distribution)는 확률 이론 및 통계학에서 주로 사용되는 이론으로, 스위스의 수학자 야코프 베르누이의 이름에 따라 명명되었다. 베르누이 분포는 확률론과 통계학에서 매 시행마다 오직 두 가지의 가능한 결과만 일어난다고 할 때, 이러한 실험을 1회 시행하여 일어난 두 가지 결과에 의해 그 값이 각각 0과 1로 결정되는 확률변수 X에 대해서
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/베르누이분포.PNG" width="60%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/베르누이분포.PNG" width="30%">
 
 를 만족하는 확률변수 X가 따르는 확률분포를 의미하며, 이항 분포의 특수한 사례에 속한다.
 
@@ -137,7 +137,7 @@ ex) ill-posed problem의 예시로 한 장의 저해상도 이미지에 대응�
 
 특이값 분해를 설명할 때 가장 대표적인 예시로 드는 것은 바로 이미지 압축 (Image Compression)입니다. 흑백 이미지의 경우, 픽셀의 정보들을 행렬로 나타낼 수 있습니다. 그래서 위에서 언급했던 Low-rank Approximation을 활용해서, 흑백 이미지를 압축할 수 있습니다. 컬러 이미지의 경우, R, G, B에 해당하는 값들을 모아 각각 행렬을 만든 뒤, 각각을 approximation하면 이미지를 압축할 수 있습니다.
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/고양이특이값분해.PNG" width="60%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/고양이특이값분해.PNG" width="30%">
 
 왼쪽 위의 사진이 고양이를 촬영한 원본 사진이고, 나머지 세 사진은 각각 rank를 200, 50, 10으로 제약을 두었을 때의 best low-rank approximation입니다. rank를 10으로 두었을 때는 형태가 제대로 나타나지 않지만, rank가 50일 때에는 고양이의 형태가 흐릿하게 보이고, rank가 200일 때는 원본과 큰 차이가 나지 않는 모습을 볼 수 있습니다.
 
