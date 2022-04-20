@@ -177,7 +177,7 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 
 GAN 수식 이해 -> 파라미터 세타로 표현되는 z
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/파라미터세타.PNG" width="60%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/파라미터세타.jpg" width="60%">
 
 ### Model-based optimization VS CNN based discriminative learning-based(Deep learning based) 
 
