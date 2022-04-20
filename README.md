@@ -131,6 +131,6 @@ ex) ill-posed problem의 예시로 한 장의 저해상도 이미지에 대응�
 
 특이값 분해를 설명할 때 가장 대표적인 예시로 드는 것은 바로 이미지 압축 (Image Compression)입니다. 흑백 이미지의 경우, 픽셀의 정보들을 행렬로 나타낼 수 있습니다. 그래서 위에서 언급했던 Low-rank Approximation을 활용해서, 흑백 이미지를 압축할 수 있습니다. 컬러 이미지의 경우, R, G, B에 해당하는 값들을 모아 각각 행렬을 만든 뒤, 각각을 approximation하면 이미지를 압축할 수 있습니다.
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/고양이특이값분해.PNG" width="40%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/고양이특이값분해.PNG" width="60%">
 
 왼쪽 위의 사진이 고양이를 촬영한 원본 사진이고, 나머지 세 사진은 각각 rank를 200, 50, 10으로 제약을 두었을 때의 best low-rank approximation입니다. rank를 10으로 두었을 때는 형태가 제대로 나타나지 않지만, rank가 50일 때에는 고양이의 형태가 흐릿하게 보이고, rank가 200일 때는 원본과 큰 차이가 나지 않는 모습을 볼 수 있습니다.
