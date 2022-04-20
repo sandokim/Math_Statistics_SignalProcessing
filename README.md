@@ -169,6 +169,6 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 
 [Deeplearning Based Image Restoration 포스팅](https://jaejunyoo.blogspot.com/2019/05/image-restoration-inverse-problem-2.html)
 
-#### Mapping function, parameter θ 이해
+#### Mapping function F, parameter θ 이해
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/deeplearningbased.PNG" width="60%">
