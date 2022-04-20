@@ -215,3 +215,17 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 
 ### 푸리에 시리즈
 Fourier series는 임의의 함수를 무한 개의 sinusoidal basis 함수들의 합으로 표현이 가능하다는 것을 보여줍니다. 즉, 수렴합니다.
+
+### 내적과 유사도 관계
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/내적.PNG" width="40%" align='center'/>
+
+여기서 θ는 두 벡터 사이의 각도인데, 각도가 90도가 되면 cos 값이 0이 되면서 내적도 0이 되죠. 따라서 이런 관점에서, 내적은 두 벡터 간의 각도 차(혹은 두 벡터가 이루는 모양의 차이)를 바탕으로 유사도를 측정하는 방법이라 할 수 있습니다.
+
+이런 내적은 신호처리에서 마주할 수 있는 다양한 상황에서 사용되는데요. 우리가 알고 싶은 내용에 따라 다른 이름으로 불리곤 합니다. 여러 신호 중 특정 신호를 찾고 싶을 때는 correlation이라는 용어로 사용되기도 하고, 신호를 바꾸거나 다른 신호로 근사하고 싶을 때는 filtering이라고 부르는데, 결국에는 모두 다 내적을 사용하여 두 신호 혹은 벡터 간의 유사성을 정량적으로 측정하는 것입니다.
+
+위와 같은 맥락으로 이해하면 신호들 간에 orthogonality는 자연스럽게 두 신호가 완벽하게 구별이 가능하다는 뜻으로 이해할 수 있게됩니다. 즉, 두 신호의 생김새가 완전히 다른 것이죠.
+
+이렇듯 유사성을 정량적으로 측정하기 위해 *내적으로부터 "거리"라는 개념이 나오고 우리가 잘 아는 유클리디안 거리가 나오는 것입니다.
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/유클리디안거리.PNG" width="40%" align='center'/>
