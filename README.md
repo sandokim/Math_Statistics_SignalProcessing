@@ -205,6 +205,7 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc^2.jpg" width="30%" align='center'/>
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.PNG" width="40%" align='center'/>
 
+[신호처리와 수학의 상관관계 포스팅](https://jaejunyoo.blogspot.com/2020/03/signal-processing-for-communications-3-1.html)
 
 ### Hilbert Space
 신호가 벡터로 표현되는 순간, 선형대수학이나 미적분학에서 개발된 강력한 도구들을 사용할 수 있게 되는데요. 이에 더해 이 신호가 Hilbert 공간 안에 있다는 것이 보장되면, 길이가 유한한 신호이든 함수와 같은 무한한 신호이든 상관없이 우리가 익숙하고 편하게 알고 있던 기하학적인 도구들을 문제없이 그대로 사용할 수 있게 됩니다.
