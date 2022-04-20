@@ -187,3 +187,8 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 #### 반면에 CNN을 이용한 discriminative learning-based 방식은 그 특성상 parametric mapping function Fθ(⋅)이 학습 데이터와 매우 강하게 엮여 있습니다. 
 때문에 Image prior 자체를 데이터로부터 배우면서 좀 더 강력한 representation이 가능하므로 더 좋은 성능을 보이며, optimization에 드는 cost를 training phase로 넘길 수 있고 test phase에서의 inference가 빠릅니다. 
 #### 그러나 데이터에 의존적인 면이 있으며 하나의 degradation에 대해서만 적용이 가능하고 따라서 모델의 유연성이 떨어진다는 단점이 있습니다.
+
+----
+### 신호처리
+
+[](https://jaejunyoo.blogspot.com/2019/05/signal-processing-for-communications.html)
