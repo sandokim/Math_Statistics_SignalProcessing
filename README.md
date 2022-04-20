@@ -200,7 +200,7 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 
 #### 신호처리 3대 함수 rect, sinc, sinc^2 푸리에 변환
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/rect.jpg" width="40%">
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.jpg" width="40%">
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc^2.jpg" width="40%">
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.PNG" width="40%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/rect.jpg" width="30%" align='left'/>
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.jpg" width="30%" align='right'/>
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc^2.jpg" width="30%" align='center'/>
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.PNG" width="40%" align='center'/>
