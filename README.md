@@ -114,3 +114,15 @@ ex) ill-posed problem의 예시로 한 장의 저해상도 이미지에 대응�
 0x=a0x=a(단,a는 0이 아니다)면, 해가 없다.
 
 방정식 중 해가 하나 혹은 유한 개로 정해지지 않는 방정식의 통칭. 부정방정식의 부정(不定)은 '정할 수 없다'의 뜻으로, 마치 0으로 나누기에서 등장하는 0x=00x=0의 해처럼 '해의 값을 하나로 정할 수 없는'의 의미이다.
+
+#### [이항분포](https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%95%AD_%EB%B6%84%ED%8F%AC)
+이항 분포(二項分布)는 연속된 n번의 독립적 시행에서 각 시행이 확률 p를 가질 때의 이산 확률 분포이다. 이러한 시행은 베르누이 시행이라고 불리기도 한다. 사실, n=1일 때 이항 분포는 베르누이 분포이다.
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/분포.PNG" width="60%">
+
+#### [베르누이분포]()
+베르누이 분포(Bernoulli Distribution)는 확률 이론 및 통계학에서 주로 사용되는 이론으로, 스위스의 수학자 야코프 베르누이의 이름에 따라 명명되었다. 베르누이 분포는 확률론과 통계학에서 매 시행마다 오직 두 가지의 가능한 결과만 일어난다고 할 때, 이러한 실험을 1회 시행하여 일어난 두 가지 결과에 의해 그 값이 각각 0과 1로 결정되는 확률변수 X에 대해서
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/베르누이분포.PNG" width="60%">
+
+를 만족하는 확률변수 X가 따르는 확률분포를 의미하며, 이항 분포의 특수한 사례에 속한다.
