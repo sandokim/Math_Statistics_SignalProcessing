@@ -8,7 +8,7 @@ w.r.t = with respect to, ~에 대해
 
 ### 수학 용어
 
-#### canonical = normal
+#### canonical = standard = normal
 In mathematics and computer science, a canonical, normal, or standard form of a mathematical object is a standard way of presenting that object as a mathematical expression. Often, it is one which provides the simplest representation of an object and which allows it to be identified in a unique way. The distinction between "canonical" and "normal" forms varies from subfield to subfield. In most fields, a canonical form specifies a unique representation for every object, while a normal form simply specifies its form, without the requirement of uniqueness.
 
 ### Joint probability distribution
