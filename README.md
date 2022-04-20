@@ -242,6 +242,8 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 벡터가 서로 orthogonal하지만 normal하지는 않을 수도 있는데 사실 서로 선형 독립이기만 하면 Gramm-Schmitt로 언제나 orthonormal하게 만들 수 있기 때문에 별 문제 될 것은 없습니다.
 #### subderivative
 수학에서 하방미분(subdifferential, subderivative)은 미분을 일반화하여 미분가능하지 않은 볼록 함수에 적용할 수 있도록 하는 방법이다. 볼록 최적화 등 볼록 함수를 연구하는 해석에서 중요하게 사용된다.
+#### supremum of convex functions
+볼록 함수의 극한
 #### supp
 수학에서, 함수의 지지집합(支持集合, 영어: support 서포트[*]) 또는 받침은 그 함수가 0이 아닌 점들의 집합의 폐포이다.
 #### 폐포
