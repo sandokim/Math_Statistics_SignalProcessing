@@ -260,3 +260,5 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 여러 임계점 -> 도함수가 0이 되는 점
 #### 임계점
 수학에서, 임계점 또는 정류점 또는 정상점은 함수의 도함수가 0이 되는 점이다. 극대점이나 극소점, 또는 안장점으로 분류된다.
+#### 하한 lower bound(파란밑줄)을 찾음으로써 우리가 아는 모델(파란밑줄)로 바로 계산을 할 수 없는 실제 모델에 approximate를 시킨다.
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/VAE.jpg" width="60%">
