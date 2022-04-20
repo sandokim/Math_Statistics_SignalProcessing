@@ -143,6 +143,10 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 
 [Low-rank approximation 평점시스템 예시](https://www.secmem.org/blog/2019/06/15/matrix-decomposition/)
 
+[Low-rank approximation Image Restoration 예시](https://jaejunyoo.blogspot.com/2019/05/image-restoration-inverse-problem-1.html)
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/lowrankapproximationIR.PNG" width="60%">
+
 #### Low-rank approximation is closely related to:
 
 -principal component analysis,
