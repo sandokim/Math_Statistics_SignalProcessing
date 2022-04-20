@@ -126,7 +126,7 @@ ex) ill-posed problem의 예시로 한 장의 저해상도 이미지에 대응�
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/이항분포.PNG" width="30%">
 
-#### [베르누이분포]()
+#### [베르누이분포](https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%A5%B4%EB%88%84%EC%9D%B4_%EB%B6%84%ED%8F%AC)
 베르누이 분포(Bernoulli Distribution)는 확률 이론 및 통계학에서 주로 사용되는 이론으로, 스위스의 수학자 야코프 베르누이의 이름에 따라 명명되었다. 베르누이 분포는 확률론과 통계학에서 매 시행마다 오직 두 가지의 가능한 결과만 일어난다고 할 때, 이러한 실험을 1회 시행하여 일어난 두 가지 결과에 의해 그 값이 각각 0과 1로 결정되는 확률변수 X에 대해서
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/베르누이분포.PNG" width="60%">
@@ -167,4 +167,8 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 
 -dynamic mode decomposition
 
+[Deeplearning Based Image Restoration 포스팅](https://jaejunyoo.blogspot.com/2019/05/image-restoration-inverse-problem-2.html)
 
+#### Mapping function, parameter θ 이해
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/deeplearningbased.PNG" width="60%">
