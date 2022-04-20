@@ -229,3 +229,6 @@ Fourier series는 임의의 함수를 무한 개의 sinusoidal basis 함수들�
 이렇듯 유사성을 정량적으로 측정하기 위해 *내적으로부터 "거리"라는 개념이 나오고 우리가 잘 아는 유클리디안 거리가 나오는 것입니다.
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/유클리디안거리.PNG" width="50%" align='center'/>
+
+### Subspace
+간혹 벡터 공간 전체가 아닌 좀 더 한정된 공간을 깊게 분석하기 위해 공간의 일부분만을 떼어서 살펴볼 때가 있습니다. 이를 subspace라고 부르는데요. Subspace는 벡터 공간 안에서 허용되는 operation들에 대해 닫혀있는 공간이기 때문에, 마치 샌드박스처럼 해당 공간을 벗어나지 않으면서도 하고 싶은 분석을 할 수 있게 됩니다. 당연하지만 subspace도 공간이기 때문에 자기 자신만의 뼈대를 가지고 있습니다.
