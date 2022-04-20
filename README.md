@@ -1,5 +1,10 @@
 # 수학과 통계를 정리합니다.
 
+#### 논문 약어
+
+s.t = subject to, ~에 대하여
+w.r.t = with respect to, ~에 대해
+
 ### Joint probability distribution
 
 [Joint probability distribution](https://blog.daum.net/gongdjn/57)
