@@ -173,7 +173,10 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/deeplearningbased.PNG" width="60%">
 
-### Model-based optimization VS CNN based discriminative learning-based(Deep learning based) -> [deep image prior (CVPR 2018)](https://arxiv.org/pdf/1711.10925.pdf)
+### Model-based optimization VS CNN based discriminative learning-based(Deep learning based) 
+
+-> [deep image prior (CVPR 2018)](https://arxiv.org/pdf/1711.10925.pdf)
+
 ----
 #### Model-based optimization은 여러가지 degradation에 대해 사용자가 유연하게 forward 모델을 만들어 사용될 수 있습니다. 
 즉, image prior가 주어지면 H만 바꿔가며 같은 알고리즘으로 여러 IR 문제들을 풀 수 있습니다. 단점은 각 instance마다 새로운 optimization 문제를 풀어줘야하기 때문에 느리겠죠.
