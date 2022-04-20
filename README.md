@@ -1,15 +1,10 @@
 # 수학, 통계, 신호처리를 정리합니다.
 
-### 논문 약어
+#### 논문 약어
 
 s.t = subject to, ~에 대하여
 
 w.r.t = with respect to, ~에 대해
-
-### 수학 용어
-
-#### canonical = standard = normal
-In mathematics and computer science, a canonical, normal, or standard form of a mathematical object is a standard way of presenting that object as a mathematical expression. Often, it is one which provides the simplest representation of an object and which allows it to be identified in a unique way. The distinction between "canonical" and "normal" forms varies from subfield to subfield. In most fields, a canonical form specifies a unique representation for every object, while a normal form simply specifies its form, without the requirement of uniqueness.
 
 ### Joint probability distribution
 
@@ -102,11 +97,11 @@ CDF는 normal distribution이 축적됐다고 생각하면 쉽게 보인다.
 
 #### Normal distribution, 정규분포
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/normaldistribution.PNG" width="60%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/normaldistribution.PNG" width="30%">
 
 #### Cumulative distribution, 누적분포
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/cdf.PNG" width="60%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/cdf.PNG" width="30%">
 
 #### ill-posed problem
 A problem which may have more than one solution, or in which the solutions depend discontinuously upon the initial data. Also known as improperly posed problem.
@@ -202,3 +197,10 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 무한대 -> 계속 증가하는 상태
 
 무한소 -> 계속 감소하는 상태, 0은 아니고 0에 가까워지는 상태 -> 무한소는 0이 아니라 0에 가까워지는 상태이므로 극한에서 분모와 분자의 나눗셈이 가능하다.
+
+#### 신호처리 3대 함수 rect, sinc, sinc^2 푸리에 변환
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/rect.jpg" width="30%" align='left'/>
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.jpg" width="30%" align='right'/>
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc^2.jpg" width="30%" align='center'/>
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.PNG" width="40%" align='center'/>
