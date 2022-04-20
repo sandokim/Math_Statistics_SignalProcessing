@@ -172,3 +172,13 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 #### Mapping function F, parameter θ 이해
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/deeplearningbased.PNG" width="60%">
+
+### Model-based optimization VS CNN based discriminative learning-based(Deep learning based)
+----
+#### Model-based optimization은 여러가지 degradation에 대해 사용자가 유연하게 forward 모델을 만들어 사용될 수 있습니다. 
+즉, image prior가 주어지면 H만 바꿔가며 같은 알고리즘으로 여러 IR 문제들을 풀 수 있습니다. 단점은 각 instance마다 새로운 optimization 문제를 풀어줘야하기 때문에 느리겠죠.
+
+----
+#### 반면에 CNN을 이용한 discriminative learning-based 방식은 그 특성상 parametric mapping function Fθ(⋅)이 학습 데이터와 매우 강하게 엮여 있습니다. 
+때문에 Image prior 자체를 데이터로부터 배우면서 좀 더 강력한 representation이 가능하므로 더 좋은 성능을 보이며, optimization에 드는 cost를 training phase로 넘길 수 있고 test phase에서의 inference가 빠릅니다. 
+#### 그러나 데이터에 의존적인 면이 있으며 하나의 degradation에 대해서만 적용이 가능하고 따라서 모델의 유연성이 떨어진다는 단점이 있습니다.
