@@ -197,3 +197,10 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 무한대 -> 계속 증가하는 상태
 
 무한소 -> 계속 감소하는 상태, 0은 아니고 0에 가까워지는 상태 -> 무한소는 0이 아니라 0에 가까워지는 상태이므로 극한에서 분모와 분자의 나눗셈이 가능하다.
+
+#### 신호처리 3대 함수 rect, sinc, sinc^2 푸리에 변환
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/rect.jpg" width="40%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.jpg" width="40%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc^2.jpg" width="40%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.PNG" width="40%">
