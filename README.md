@@ -175,7 +175,9 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 
 ### Model-based optimization VS CNN based discriminative learning-based(Deep learning based) 
 
--> [deep image prior (CVPR 2018)](https://arxiv.org/pdf/1711.10925.pdf)
+-> [deep image prior (CVPR 2018)](https://arxiv.org/pdf/1711.10925.pdf) 
+
+-> DIP의 재미있는 점은 이제 CNN이 이미지 한 장 한 장에 대해 optimization 문제를 풀어 θ를 구한다는 것입니다. 마치 model-based optimization 방식들 같죠? 따라서 다른 model-based optimization이 그러하듯 DIP도 unsupervised 방식으로 IR 문제를 풀 수 있게 됩니다.
 
 ----
 #### Model-based optimization은 여러가지 degradation에 대해 사용자가 유연하게 forward 모델을 만들어 사용될 수 있습니다. 
