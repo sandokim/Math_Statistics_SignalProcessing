@@ -96,3 +96,8 @@ CDF는 normal distribution이 축적됐다고 생각하면 쉽게 보인다.
 #### Cumulative distribution, 누적분포
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/cdf.PNG" width="60%">
+
+#### ill-posed problem
+A problem which may have more than one solution, or in which the solutions depend discontinuously upon the initial data. Also known as improperly posed problem.
+#### Well-posed problem
+수리물리학 문제가 "해가 유일하게 존재하고 데이터에 연속적으로 의존적일때" 그 문제는 Well-posed 되었다고 한다. 이러한 조건을 만족하지 않을때 그 문제는 Ill-posed 되었다고 한다.
