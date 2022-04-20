@@ -218,7 +218,7 @@ Fourier series는 임의의 함수를 무한 개의 sinusoidal basis 함수들�
 
 ### 내적과 유사도 관계
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/내적.PNG" width="40%" align='center'/>
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/내적.PNG" width="30%" align='center'/>
 
 여기서 θ는 두 벡터 사이의 각도인데, 각도가 90도가 되면 cos 값이 0이 되면서 내적도 0이 되죠. 따라서 이런 관점에서, 내적은 두 벡터 간의 각도 차(혹은 두 벡터가 이루는 모양의 차이)를 바탕으로 유사도를 측정하는 방법이라 할 수 있습니다.
 
@@ -228,4 +228,4 @@ Fourier series는 임의의 함수를 무한 개의 sinusoidal basis 함수들�
 
 이렇듯 유사성을 정량적으로 측정하기 위해 *내적으로부터 "거리"라는 개념이 나오고 우리가 잘 아는 유클리디안 거리가 나오는 것입니다.
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/유클리디안거리.PNG" width="40%" align='center'/>
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/유클리디안거리.PNG" width="50%" align='center'/>
