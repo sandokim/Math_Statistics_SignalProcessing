@@ -240,3 +240,5 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 간혹 벡터 공간 전체가 아닌 좀 더 한정된 공간을 깊게 분석하기 위해 공간의 일부분만을 떼어서 살펴볼 때가 있습니다. 이를 subspace라고 부르는데요. Subspace는 벡터 공간 안에서 허용되는 operation들에 대해 닫혀있는 공간이기 때문에, 마치 샌드박스처럼 해당 공간을 벗어나지 않으면서도 하고 싶은 분석을 할 수 있게 됩니다. 당연하지만 subspace도 공간이기 때문에 자기 자신만의 뼈대를 가지고 있습니다.
 #### Gramm-Schmitt (linearly independent --> orthonormal)
 벡터가 서로 orthogonal하지만 normal하지는 않을 수도 있는데 사실 서로 선형 독립이기만 하면 Gramm-Schmitt로 언제나 orthonormal하게 만들 수 있기 때문에 별 문제 될 것은 없습니다.
+#### subderivative
+수학에서 하방미분(subdifferential, subderivative)은 미분을 일반화하여 미분가능하지 않은 볼록 함수에 적용할 수 있도록 하는 방법이다. 볼록 최적화 등 볼록 함수를 연구하는 해석에서 중요하게 사용된다.
