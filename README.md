@@ -212,3 +212,6 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 
 ### 푸리에 변환은 좌표축 변환이다. 
 하나의 좌표축으로 표현된 어떤 벡터를 다른 좌표축으로 바꿔 표현하는 것을 벡터에 대한 좌표축 "변환 (transform)"을 수행한다고 얘기합니다. 즉, Fourier transform은 별게 아니라 임의의 벡터를 Fourier bases로 좌표축을 바꿔서 표현하는 방법이라 볼 수 있습니다.
+
+### 푸리에 시리즈
+Fourier series는 임의의 함수를 무한 개의 sinusoidal basis 함수들의 합으로 표현이 가능하다는 것을 보여줍니다. 즉, 수렴합니다.
