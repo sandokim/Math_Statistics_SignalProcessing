@@ -230,5 +230,9 @@ Fourier series는 임의의 함수를 무한 개의 sinusoidal basis 함수들�
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/유클리디안거리.PNG" width="50%" align='center'/>
 
-### Subspace
+### Subspaces and Bases
+Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망가뜨리지 않고 늘리거나 휘거나 돌리는 등의 선형 변환(linear transformation)을 할 수 있다.
+#### Change of basis & Fourier transform
+유연한 성질을 바탕으로, 기존 공간의 성질들을 망가뜨리지 않는 선에서 뼈대를 맘대로 바꾸는 것을 "change of basis"라고 합니다. 이렇게 뼈대를 바꾸는 까닭은 보통 현재의 구조로는 살펴보기가 힘든 정보가 있어서, 이를 좀 더 쉽게 살펴볼 수 있도록 시점을 바꾸기 위해서 입니다. 예를 들면 앞선 글에서 말했었듯 차후 배울 Fourier transform 역시도 대표적인 change of basis 중 하나입니다.
+#### Subspace
 간혹 벡터 공간 전체가 아닌 좀 더 한정된 공간을 깊게 분석하기 위해 공간의 일부분만을 떼어서 살펴볼 때가 있습니다. 이를 subspace라고 부르는데요. Subspace는 벡터 공간 안에서 허용되는 operation들에 대해 닫혀있는 공간이기 때문에, 마치 샌드박스처럼 해당 공간을 벗어나지 않으면서도 하고 싶은 분석을 할 수 있게 됩니다. 당연하지만 subspace도 공간이기 때문에 자기 자신만의 뼈대를 가지고 있습니다.
