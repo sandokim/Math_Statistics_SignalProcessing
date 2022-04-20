@@ -101,3 +101,16 @@ CDF는 normal distribution이 축적됐다고 생각하면 쉽게 보인다.
 A problem which may have more than one solution, or in which the solutions depend discontinuously upon the initial data. Also known as improperly posed problem.
 #### Well-posed problem
 수리물리학 문제가 "해가 유일하게 존재하고 데이터에 연속적으로 의존적일때" 그 문제는 Well-posed 되었다고 한다. 이러한 조건을 만족하지 않을때 그 문제는 Ill-posed 되었다고 한다.
+
+ex) ill-posed problem의 예시로 한 장의 저해상도 이미지에 대응할 수 있는 고해상도 이미지는 다양한 경우의 수가 있다는 예시로 이해하시면 쉽습니다.
+
+[underdetermined inverse problem, ill-posed problem, Image Restoration(IR)](https://jaejunyoo.blogspot.com/2019/05/image-restoration-inverse-problem-1.html)
+
+#### underdetermined
+변수항을 좌변으로 이항했을때,
+
+0x=00x=0 이면, 해가 무수히 많고
+
+0x=a0x=a(단,a는 0이 아니다)면, 해가 없다.
+
+방정식 중 해가 하나 혹은 유한 개로 정해지지 않는 방정식의 통칭. 부정방정식의 부정(不定)은 '정할 수 없다'의 뜻으로, 마치 0으로 나누기에서 등장하는 0x=00x=0의 해처럼 '해의 값을 하나로 정할 수 없는'의 의미이다.
