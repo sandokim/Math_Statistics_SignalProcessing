@@ -204,3 +204,5 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.jpg" width="30%" align='right'/>
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc^2.jpg" width="30%" align='center'/>
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/sinc.PNG" width="40%" align='center'/>
+
+#### 푸리에 변환은 좌표축 변환이다. 하나의 좌표축으로 표현된 어떤 벡터를 다른 좌표축으로 바꿔 표현하는 것을 벡터에 대한 좌표축 "변환 (transform)"을 수행한다고 얘기합니다. 즉, Fourier transform은 별게 아니라 임의의 벡터를 Fourier bases로 좌표축을 바꿔서 표현하는 방법이라 볼 수 있습니다.
