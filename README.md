@@ -191,4 +191,4 @@ In mathematics, low-rank approximation is a minimization problem, in which the c
 ----
 ### 신호처리
 
-[](https://jaejunyoo.blogspot.com/2019/05/signal-processing-for-communications.html)
+[신호처리](https://jaejunyoo.blogspot.com/2019/05/signal-processing-for-communications.html)
