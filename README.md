@@ -134,3 +134,27 @@ ex) ill-posed problem의 예시로 한 장의 저해상도 이미지에 대응�
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/고양이특이값분해.PNG" width="60%">
 
 왼쪽 위의 사진이 고양이를 촬영한 원본 사진이고, 나머지 세 사진은 각각 rank를 200, 50, 10으로 제약을 두었을 때의 best low-rank approximation입니다. rank를 10으로 두었을 때는 형태가 제대로 나타나지 않지만, rank가 50일 때에는 고양이의 형태가 흐릿하게 보이고, rank가 200일 때는 원본과 큰 차이가 나지 않는 모습을 볼 수 있습니다.
+
+### Low-rank approximation
+
+In mathematics, low-rank approximation is a minimization problem, in which the cost function measures the fit between a given matrix (the data) and an approximating matrix (the optimization variable), subject to a constraint that the approximating matrix has reduced rank. The problem is used for mathematical modeling and data compression. The rank constraint is related to a constraint on the complexity of a model that fits the data. In applications, often there are other constraints on the approximating matrix apart from the rank constraint, e.g., non-negativity and Hankel structure.
+
+수학에서 낮은 순위 근사는 근사 행렬의 순위가 감소했다는 제약 조건에 따라 비용 함수가 주어진 행렬과 근사 행렬 사이의 적합성을 측정하는 최소화 문제입니다. 문제는 수학적 모델링 및 데이터 압축에 사용됩니다. -> 빈 행렬 원소값에 대해 추정을 하는 것으로 생각, 평점을 원소로 하는 행렬에서 모든 항목이 다 채워져있기를 기대하기는 힘듭니다. (모든 유저가 모든 아이템에 대해서 평점을 매겨야 하기 때문입니다.) 이러한 경우, 아직 유저가 아직 평가하지 않은 아이템의 평점을 예측하려면 어떻게 해야 할까요? 먼저 평가가 매겨지지 않은 위치에 값을 임의로 채우고 특이값 분해를 합니다. 그 후 rank를 제한을 두어서 low-rank approximation을 수행합니다. 그렇다면, low-rank approximation을 한 결과가 아직 평가하지 않은 항목에 대한 평점의 예측이 됩니다.
+
+[Low-rank approximation 평점시스템 예시](https://www.secmem.org/blog/2019/06/15/matrix-decomposition/)
+
+#### Low-rank approximation is closely related to:
+
+-principal component analysis,
+
+-factor analysis
+
+-total least squares
+
+-latent semantic analysis
+
+-orthogonal regression
+
+-dynamic mode decomposition
+
+
