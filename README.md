@@ -264,6 +264,8 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 수학에서, 임계점 또는 정류점 또는 정상점은 함수의 도함수가 0이 되는 점이다. 극대점이나 극소점, 또는 안장점으로 분류된다.
 #### 하한 lower bound(파란밑줄)을 찾음으로써 우리가 아는 모델(파란밑줄)로 바로 계산을 할 수 없는 실제 모델에 approximate를 시킨다.
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/VAE.jpg" width="60%">
+
 #### Fixed_noise pattern
 고정 패턴 노이즈는 특정 픽셀이 평균 강도보다 더 밝은 강도를 제공하기 쉬운 긴 노출 촬영 중에 종종 눈에 띄는 디지털 이미징 센서의 특정 노이즈 패턴에 주어진 용어입니다.
+
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Fixed_noise pattern.PNG" width="30%">
