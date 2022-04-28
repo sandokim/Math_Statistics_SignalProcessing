@@ -273,4 +273,4 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 ### 선형대수
 
 #### Norm
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/norm.PNG" width="50%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/norm.jpg" width="50%">
