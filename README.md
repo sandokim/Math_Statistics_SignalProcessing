@@ -274,3 +274,6 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 
 #### Norm
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/norm.jpg" width="50%">
+
+#### dot product
+내적은 두벡터가 얼마나 닮았는가. 닮은 정도를 나타냅니다. 한 벡터의 성분이 다른방향의 벡터의 성분을 얼마나 가지고 있느냐라고 생각할 수 있습니다.
