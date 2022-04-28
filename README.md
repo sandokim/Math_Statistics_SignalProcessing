@@ -269,3 +269,8 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 고정 패턴 노이즈는 특정 픽셀이 평균 강도보다 더 밝은 강도를 제공하기 쉬운 긴 노출 촬영 중에 종종 눈에 띄는 디지털 이미징 센서의 특정 노이즈 패턴에 주어진 용어입니다.
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Fixed_noise pattern.PNG" width="30%">
+
+### 선형대수
+
+#### Norm
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/norm.PNG" width="50%">
