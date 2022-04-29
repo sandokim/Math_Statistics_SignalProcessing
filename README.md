@@ -277,3 +277,7 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 
 #### dot product
 내적은 두벡터가 얼마나 닮았는가. 닮은 정도를 나타냅니다. 한 벡터의 성분이 다른방향의 벡터의 성분을 얼마나 가지고 있느냐라고 생각할 수 있습니다.
+
+#### Hessian matrix
+함수를 볼록하게 만들어줍니다. 더 볼록해진 부분의 방향으로의 고유벡터의 값은 크게 나타나며 이미지내에서는 고유벡터값이 큰 부분이 뚜렷하게 나타나게 됩니다.
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Hessian matrix.PNG" width="50%">
