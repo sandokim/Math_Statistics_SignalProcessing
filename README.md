@@ -281,6 +281,9 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 #### Hessian matrix
 함수를 볼록하게 만들어줍니다. 더 볼록해진 부분의 방향으로의 고유벡터의 값은 크게 나타나며 이미지내에서는 고유벡터값이 큰 부분이 뚜렷하게 나타나게 됩니다.
 
+##### Hessian matrix는 symmetric하다. 연속되는 두번의 미분의 순서는 상관이 없다.
+The Hessian matrix is a symmetric matrix, since the hypothesis of continuity of the second derivatives implies that the order of differentiation does not matter (Schwarz's theorem). The determinant of the Hessian matrix is called the Hessian determinant.
+
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Hessian matrix.PNG" width="50%">
 
 #### Jacobian matrix
