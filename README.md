@@ -294,3 +294,7 @@ The Hessian matrix is a symmetric matrix, since the hypothesis of continuity of 
 
 행렬식의 기하학적 의미 : 행렬식은 선형변환할 때 단위면적이 얼마만큼 늘어나는가를 말해줍니다. 따라서, Jacobian 행렬의 행렬식의 의미는 원래 좌표계에서 변환된 좌표계로 변환될 때의 넓이의 변화비율을 말해줍니다.
 
+#### Largrangian Multiplier
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Lagrangian multiplier.jpg" width="40%">
+
