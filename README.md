@@ -298,3 +298,8 @@ The Hessian matrix is a symmetric matrix, since the hypothesis of continuity of 
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Lagrangian multiplier.jpg" width="40%">
 
+
+#### Largrangian Multiplier와 Local minimum -> Solution
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Lagrangian multiplier solution.jpg" width="40%">
+
