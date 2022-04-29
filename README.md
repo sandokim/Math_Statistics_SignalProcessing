@@ -282,3 +282,12 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 함수를 볼록하게 만들어줍니다. 더 볼록해진 부분의 방향으로의 고유벡터의 값은 크게 나타나며 이미지내에서는 고유벡터값이 큰 부분이 뚜렷하게 나타나게 됩니다.
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Hessian matrix.PNG" width="50%">
+
+#### Jacobian matrix
+
+비선형 변환을 국소적으로 선형변형으로 근사한것.
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Jacobian.jpg" width="40%">
+
+행렬식의 기하학적 의미 : 행렬식은 선형변환할 때 단위면적이 얼마만큼 늘어나는가를 말해줍니다. 따라서, Jacobian 행렬의 행렬식의 의미는 원래 좌표계에서 변환된 좌표계로 변환될 때의 넓이의 변화비율을 말해줍니다.
+
