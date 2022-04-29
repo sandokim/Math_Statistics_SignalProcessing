@@ -303,3 +303,8 @@ The Hessian matrix is a symmetric matrix, since the hypothesis of continuity of 
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Lagrangian multiplier solution.jpg" width="40%">
 
+#### Newton method는 사실상 1차 Taylor series입니다. 
+
+->Taylor series로 주어진 함수를 1차 함수로 근사시켜서 주어진 함수의 zero finding을 할 수 있습니다. 
+
+->Taylor series로 주어진 함수를 2차 함수로 근사시켜서 주어진 함수의 zero finding을 할 수 있습니다.
