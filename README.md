@@ -313,6 +313,8 @@ The Hessian matrix is a symmetric matrix, since the hypothesis of continuity of 
 
 라그랑지안 승수법(Lagrange multiplier method)은 제약식에 형식적인 라그랑지안 승수를 곱한 항을 최적화하려는 목적식에 더하여, 제약된 문제를 제약이 없는 문제로 바꾸는 기법입니다. 
 
-제약식 + 
+목적함수 = 제약식 + 라그랑주 승수 알파 * 항 ; equality constraints problem(제약조건이 있는 문제) -> inequaility constraints problem(제약이 없는 문제)
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/라그랑주제약식.PNG" width="40%">
+라그랑주 승수법 (Lagrange multiplier method)은 프랑스의 수학자 조세프루이 라그랑주 (Joseph-Louis Lagrange)가 제약 조건이 있는 최적화 문제를 풀기 위해 고안한 방법이다. 라그랑주 승수법은 어떠한 문제의 최적점을 찾는 것이 아니라, 최적점이 되기 위한 조건을 찾는 방법이다. 즉, 최적해의 필요조건을 찾는 방법이다.
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/라그랑주제약식.PNG" width="60%">
