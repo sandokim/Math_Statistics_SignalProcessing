@@ -308,3 +308,11 @@ The Hessian matrix is a symmetric matrix, since the hypothesis of continuity of 
 ->Taylor series로 주어진 함수를 1차 함수로 근사시켜서 주어진 함수의 zero finding을 할 수 있습니다. 
 
 ->Taylor series로 주어진 함수를 2차 함수로 근사시켜서 주어진 함수의 zero finding을 할 수 있습니다.
+
+### 라그랑주 승수법 (Lagrange Multiplier)
+
+라그랑지안 승수법(Lagrange multiplier method)은 제약식에 형식적인 라그랑지안 승수를 곱한 항을 최적화하려는 목적식에 더하여, 제약된 문제를 제약이 없는 문제로 바꾸는 기법입니다. 
+
+제약식 + 
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/라그랑주제약식.PNG" width="40%">
