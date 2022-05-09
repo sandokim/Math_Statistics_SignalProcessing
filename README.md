@@ -42,6 +42,8 @@ KL-divergence와 log likelihood 우리가 전체를 알 수 없는 분포 p(x) �
 
 [MCMC, 마코프체인, 몬테카를로](https://4four.us/article/2014/11/markov-chain-monte-carlo)
 
+[Marcov Chain Stationary Distribution 유튜브영상](https://www.youtube.com/watch?v=4sXiCxZDrTU)
+
 MCMC 방식은 High dimensional vector space에서 잘 되기 어렵다고 한다. 사실 직관적으로도 그렇습니다. MCMC를 이용하여 probability distribution를 찾는다고 생각해보면 점을 여러 개?를 뽑아서 distribution을 유추하겠다는 것인데 사실 거의 불가능에 가깝다. (고차원으로 갈 수록 천문학적인 점들이 필요할테니...).
 
 [Gibbs Sampling](https://ratsgo.github.io/statistics/2017/05/31/gibbs/)
