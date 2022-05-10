@@ -298,6 +298,18 @@ The Hessian matrix is a symmetric matrix, since the hypothesis of continuity of 
 
 행렬식의 기하학적 의미 : 행렬식은 선형변환할 때 단위면적이 얼마만큼 늘어나는가를 말해줍니다. 따라서, Jacobian 행렬의 행렬식의 의미는 원래 좌표계에서 변환된 좌표계로 변환될 때의 넓이의 변화비율을 말해줍니다.
 
+### Score matching과 Jacobian
+
+Jacobain은 비선형 변환을 국소적으로 선형변환하기 때문에 변환 이후 Subspace의 차원이 축소될 수 있으며 이로 인해 변환된 Subspace보다 고차원의 차원은 고려할 수 없게 되는 단점이 있습니다. 
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Jacobiasubspace.jpg" width="40%">
+
+#### tsne
+
+tsne는 neural network를 거쳐나온 데이터들을 클러스터링한 것을 시각화하여 보여줍니다. PCA 주성분 분석을 통해 각 데이터들의 분산을 가장 넓게 잘표현하는 쪽으로 차원을 축소합니다. 주성분은 벡터에서는 기저벡터의 스칼라값이 가장 큰 성분을 의미합니다.
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/tsne_mnist.jpg" width="40%">
+
 #### Largrangian Multiplier와 Local minimum의 기하학적 상관관계
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Lagrangian multiplier.jpg" width="40%">
