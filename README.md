@@ -302,7 +302,7 @@ The Hessian matrix is a symmetric matrix, since the hypothesis of continuity of 
 
 Jacobain은 비선형 변환을 국소적으로 선형변환하기 때문에 변환 이후 Subspace의 차원이 축소될 수 있으며 이로 인해 변환된 Subspace보다 고차원의 차원은 고려할 수 없게 되는 단점이 있습니다. 
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/score matching.PNG" width="40%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/score matching.PNG" width="60%">
 
 #### tsne
 
