@@ -306,9 +306,11 @@ Jacobain은 비선형 변환을 국소적으로 선형변환하기 때문에 변
 
 #### tsne
 
-tsne는 neural network를 거쳐나온 데이터들을 클러스터링한 것을 시각화하여 보여줍니다. PCA 주성분 분석을 통해 각 데이터들의 분산을 가장 넓게 잘표현하는 쪽으로 차원을 축소합니다. 주성분은 벡터에서는 기저벡터의 스칼라값이 가장 큰 성분을 의미합니다.
+tsne는 neural network를 거쳐나온 데이터들을 클러스터링한 것을 시각화하여 보여줍니다. 
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/tsne_mnist.png" width="40%">
+
+PCA와 Local Linear Embedding은 차원 축소 방법을 선형적으로 접근하지만 T-SNE는 비선형적으로 접근하기 때문에 표현력이 증가됩니다. 따라서 위 시각화 결과와 같이 T-SNE는 클래스 간 분별력이 있게 시각화 할 수 있습니다. PCA 주성분 분석을 통해 각 데이터들의 분산을 가장 넓게 잘표현하는 쪽으로 차원을 축소합니다. 주성분은 벡터에서는 기저벡터의 스칼라값이 가장 큰 성분을 의미합니다.
 
 #### Largrangian Multiplier와 Local minimum의 기하학적 상관관계
 
