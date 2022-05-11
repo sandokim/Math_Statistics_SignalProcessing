@@ -343,4 +343,4 @@ PCA와 Local Linear Embedding은 차원 축소 방법을 선형적으로 접근�
 
 ### 상계,하계,상한,하한 (upper bound, lower bound, supremum, infimum0
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/상계하계.PNG" width="60%">
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/상계하계상한하한.PNG" width="60%">
