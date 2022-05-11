@@ -340,3 +340,7 @@ PCA와 Local Linear Embedding은 차원 축소 방법을 선형적으로 접근�
 라그랑주 승수법 (Lagrange multiplier method)은 프랑스의 수학자 조세프루이 라그랑주 (Joseph-Louis Lagrange)가 제약 조건이 있는 최적화 문제를 풀기 위해 고안한 방법이다. 라그랑주 승수법은 어떠한 문제의 최적점을 찾는 것이 아니라, 최적점이 되기 위한 조건을 찾는 방법이다. 즉, 최적해의 필요조건을 찾는 방법이다.
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/라그랑주제약식.PNG" width="60%">
+
+### 상계,하계,상한,하한 (upper bound, lower bound, supremum, infimum0
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/상계하계.PNG" width="50%">
