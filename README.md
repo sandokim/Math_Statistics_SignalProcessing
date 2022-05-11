@@ -1,5 +1,9 @@
 # 수학, 통계, 신호처리를 정리합니다.
 
+#### Logistic Regression -> Maximum liklihood value가 가장 큰 line을 찾는다. <-> Mean Squre Error는 R^2을 줄이는 방향으로 line을 regression을 한다.
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/logistic regression.PNG" width="40%">
+
 [변분추론(Variational Inference), 몬테카를로방법, KL Divergence](https://ratsgo.github.io/generative%20model/2017/12/19/vi/)
 
 역전파(Backpropagation)는 먼저 계산 결과와 정답의 오차를 구해 이 오차에 관여하는 값들의 가증치를 수정하여 오차가 작아지는 방향으로 일정 횟수를 반복해 수정하는 방법이다. 오차역전파 또는 오류역전파라고도 불린다. 반대말은 순전파이다.
