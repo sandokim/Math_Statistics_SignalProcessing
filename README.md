@@ -344,3 +344,5 @@ PCA와 Local Linear Embedding은 차원 축소 방법을 선형적으로 접근�
 ### 상계,하계,상한,하한 (upper bound, lower bound, supremum, infimum0
 
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/상계하계상한하한.PNG" width="60%">
+
+상계가 존재하는 집합을 위로 유계인 집합이라고 하고, 하계가 존재하는 집합을 아래로 유계인 집합이라고 하며, 상계와 하계가 모두 존재하는 집합을 유계인 집합이라고 합니다. (상계와 상한, 하계와 하한을 잘 구별해서 읽으시길 바랍니다)
