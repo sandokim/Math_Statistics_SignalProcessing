@@ -18,6 +18,10 @@ w.r.t = with respect to, ~에 대해
 
 [Probability Distribution, Marginal Distribution, Conditional Distribution 유튜브](https://www.youtube.com/watch?v=CAXQvTKP8sg)
 
+#### Marginallize out
+
+Marginal variables are those variables in the subset of variables being retained. These concepts are "marginal" because they can be found by summing values in a table along rows or columns, and writing the sum in the margins of the table.[1] The distribution of the marginal variables (the marginal distribution) is obtained by marginalizing – that is, focusing on the sums in the margin – over the distribution of the variables being discarded, and the discarded variables are said to have been marginalized out.
+
 <img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Probability Distribution, Marginal Distribution, Conditional Distribution.PNG" width="60%">
 
 ### Joint probability distribution
