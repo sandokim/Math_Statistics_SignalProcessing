@@ -14,6 +14,12 @@ s.t = subject to, ~에 대하여
 
 w.r.t = with respect to, ~에 대해
 
+### Probability Distribution, Marginal Distribution, Conditional Distribution
+
+[Probability Distribution, Marginal Distribution, Conditional Distribution 유튜브](https://www.youtube.com/watch?v=CAXQvTKP8sg)
+
+<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Probability Distribution, Marginal Distribution, Conditional Distribution.PNG" width="60%">
+
 ### Joint probability distribution
 
 [Joint probability distribution](https://blog.daum.net/gongdjn/57)
