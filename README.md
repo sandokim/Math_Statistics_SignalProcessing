@@ -16,6 +16,12 @@ s.t = subject to, ~에 대하여
 
 w.r.t = with respect to, ~에 대해
 
+i.i.d. = independent and identically distribution, 독립항등분포
+
+-> 독립적이라는 것은 각각의 사건이 다른 사건에 영향을 주지 않는다는 것을 의미한다. 주사위로 예를 들면, 처음 시행에서 1이 나왔다하더라도 2번째, 3번째 시행에 영향을 주지 않습니다.
+
+-> 같은 확률 분포를 가진다는 건 주사위 굴리기, 동전 던지기처럼 동일한 확률분포를 가지는 걸 의미한다. 하지만 만약 주사위를 굴리고 동전을 던진다면, 각각의 사건이 독립적인 건 맞지만 동일한 분포를 따르는게 아니기 때문에 iid하다고 말할 수 없습니다.
+
 ### Probability Distribution, Marginal Distribution, Conditional Distribution
 
 [Probability Distribution, Marginal Distribution, Conditional Distribution 유튜브](https://www.youtube.com/watch?v=CAXQvTKP8sg)
