@@ -1,5 +1,7 @@
 # 수학, 통계, 신호처리를 정리합니다.
 
+### [Optimziation, inequality, equality constraints, whole space, feasible region, feasible set, decision variable, linear model, neural network 설명 유튜브](https://www.youtube.com/watch?v=AM6BY4btj-M)
+
 #### [ELBO란](https://mbernste.github.io/posts/elbo/)
 
 #### Logistic Regression -> Maximum liklihood value가 가장 큰 line을 찾습니다. <-> Mean Squre Error는 R^2을 줄이는 방향으로 line을 regression을 합니다.
