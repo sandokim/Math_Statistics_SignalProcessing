@@ -1,5 +1,7 @@
 # 수학, 통계, 신호처리를 정리합니다.
 
+큰 수의 법칙(law of large numbers, LLN)은 경험적 확률과 수학적 확률 사이의 관계를 나타내는 법칙으로, 표본집단의 크기가 커지면 그 표본평균이 모평균에 가까워짐을 의미한다. 따라서 취합하는 표본의 수가 많을수록 통계적 정확도는 올라가게 된다.
+
 ### [Optimziation, inequality, equality constraints, whole space, feasible region, feasible set, decision variable, linear model, neural network 설명 유튜브](https://www.youtube.com/watch?v=AM6BY4btj-M)
 
 #### [ELBO란](https://mbernste.github.io/posts/elbo/)
