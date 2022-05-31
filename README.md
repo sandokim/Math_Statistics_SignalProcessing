@@ -369,6 +369,9 @@ PCA와 Local Linear Embedding은 차원 축소 방법을 선형적으로 접근�
 
 상계가 존재하는 집합을 위로 유계인 집합이라고 하고, 하계가 존재하는 집합을 아래로 유계인 집합이라고 하며, 상계와 하계가 모두 존재하는 집합을 유계인 집합이라고 합니다. (상계와 상한, 하계와 하한을 잘 구별해서 읽으시길 바랍니다)
 
+[Definition of Supremum and Infimum of a Set | Real Analysis](https://www.youtube.com/watch?v=QRGIhqz9vh4)
+
 <img src="https://github.com/hyeseongkim0/Math_Statistics_SignalProcessing/blob/main/images/sup_inf.JPG" width="60%">
 
-[Definition of Supremum and Infimum of a Set | Real Analysis](https://www.youtube.com/watch?v=QRGIhqz9vh4)
+<img src="https://github.com/hyeseongkim0/Math_Statistics_SignalProcessing/blob/main/images/sup_inf_ex.JPG" width="60%">
+
