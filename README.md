@@ -375,3 +375,10 @@ PCA와 Local Linear Embedding은 차원 축소 방법을 선형적으로 접근�
 
 <img src="https://github.com/hyeseongkim0/Math_Statistics_SignalProcessing/blob/main/images/sup_inf_ex.JPG" width="60%">
 
+#### Real number 실수인 경우 sup, inf 존재
+
+<img src="https://github.com/hyeseongkim0/Math_Statistics_SignalProcessing/blob/main/images/sup_inf_real_number.JPG" width="60%">
+
+#### Rational number 무리수인 경우 sup, inf 존재X
+<img src="https://github.com/hyeseongkim0/Math_Statistics_SignalProcessing/blob/main/images/sup_inf_rational_number.JPG" width="60%">
+
