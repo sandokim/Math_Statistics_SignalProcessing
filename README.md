@@ -16,7 +16,7 @@ In mathematics, bicubic interpolation is an extension of cubic interpolation (no
 
 #### Logistic Regression -> Maximum liklihood value가 가장 큰 line을 찾습니다. <-> Mean Squre Error는 R^2을 줄이는 방향으로 line을 regression을 합니다.
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/logistic regression.PNG" width="60%">
+<img src="https://github.com/sandokim/Math_-probability-statistics/blob/main/images/logistic regression.PNG" width="60%">
 
 [변분추론(Variational Inference), 몬테카를로방법, KL Divergence](https://ratsgo.github.io/generative%20model/2017/12/19/vi/)
 
@@ -42,7 +42,7 @@ i.i.d. = independent and identically distribution, 독립항등분포
 
 Marginal variables are those variables in the subset of variables being retained. These concepts are "marginal" because they can be found by summing values in a table along rows or columns, and writing the sum in the margins of the table.[1] The distribution of the marginal variables (the marginal distribution) is obtained by marginalizing – that is, focusing on the sums in the margin – over the distribution of the variables being discarded, and the discarded variables are said to have been marginalized out.
 
-<img src="https://github.com/Hyeseong0317/Math_-probability-statistics/blob/main/images/Probability Distribution, Marginal Distribution, Conditional Distribution.PNG" width="60%">
+<img src="https://github.com/sandokim/Math_-probability-statistics/blob/main/images/Probability Distribution, Marginal Distribution, Conditional Distribution.PNG" width="60%">
 
 ### Joint probability distribution
 
