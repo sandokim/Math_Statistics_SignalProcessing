@@ -2,7 +2,9 @@
 
 ### Interpolation
 
-수학에서 bicubic interpolation은 2 차원 규칙 그리드에서 데이터 포인트를 보간하기위한 3 차 보간의 확장입니다. 보간 된 표면은 쌍 선형 보간 또는 가장 가까운 이웃 보간법으로 얻은 해당 표면보다 매끄 럽습니다.
+수학에서 bicubic interpolation은 2차원 규칙 그리드에서 데이터 포인트를 보간하기위한 3 차 보간의 확장입니다. 보간된 표면은 쌍 선형 보간 또는 가장 가까운 이웃 보간법으로 얻은 해당 표면보다 매끄럽습니다.
+
+In mathematics, bicubic interpolation is an extension of cubic interpolation (not to be confused with cubic spline interpolation, a method of applying cubic interpolation to a data set) for interpolating data points on a two-dimensional regular grid. The interpolated surface is smoother than corresponding surfaces obtained by bilinear interpolation or nearest-neighbor interpolation. Bicubic interpolation can be accomplished using either Lagrange polynomials, cubic splines, or cubic convolution algorithm.
 
 <img src="https://github.com/sandokim/Math_Statistics_SignalProcessing/blob/main/images/bicubic interpolation.PNG" width="50%">
 
