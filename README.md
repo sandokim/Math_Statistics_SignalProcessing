@@ -1,5 +1,11 @@
 # 수학, 통계, 신호처리를 정리합니다.
 
+### Interpolation
+
+수학에서 bicubic interpolation은 2 차원 규칙 그리드에서 데이터 포인트를 보간하기위한 3 차 보간의 확장입니다. 보간 된 표면은 쌍 선형 보간 또는 가장 가까운 이웃 보간법으로 얻은 해당 표면보다 매끄 럽습니다.
+
+<img src="https://github.com/sandokim/Math_Statistics_SignalProcessing/blob/main/images/bicubic interpolation.PNG" width="80%">
+
 큰 수의 법칙(law of large numbers, LLN)은 경험적 확률과 수학적 확률 사이의 관계를 나타내는 법칙으로, 표본집단의 크기가 커지면 그 표본평균이 모평균에 가까워짐을 의미한다. 따라서 취합하는 표본의 수가 많을수록 통계적 정확도는 올라가게 된다.
 
 ### [Optimziation, inequality, equality constraints, whole space, feasible region, feasible set, decision variable, linear model, neural network 설명 유튜브](https://www.youtube.com/watch?v=AM6BY4btj-M)
