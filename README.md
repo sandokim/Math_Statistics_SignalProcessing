@@ -26,6 +26,8 @@ In mathematics, bicubic interpolation is an extension of cubic interpolation (no
 
 s.t = subject to, ~에 대하여
 
+수학에서 s.t.는 subject to 즉 '~에 대하여'라는 뜻이다. 수학에서 s.t.는 such that 즉, 뒤에 있는 것을 만족하는'이라는 뜻이다.
+
 w.r.t = with respect to, ~에 대해
 
 i.i.d. = independent and identically distribution, 독립항등분포
