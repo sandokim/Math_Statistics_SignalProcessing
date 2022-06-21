@@ -290,8 +290,13 @@ Basis는 어떤 공간에 대한 구조를 이루는 뼈대이다. 공간을 망
 수학에서 하방미분(subdifferential, subderivative)은 미분을 일반화하여 미분가능하지 않은 볼록 함수에 적용할 수 있도록 하는 방법이다. 볼록 최적화 등 볼록 함수를 연구하는 해석에서 중요하게 사용된다.
 #### supremum of convex functions
 볼록 함수의 극한
-#### sup
+#### sup, supp
 수학에서, 함수의 지지집합(支持集合, 영어: support 서포트[*]) 또는 받침은 그 함수가 0이 아닌 점들의 집합의 폐포이다.
+
+In mathematics, the support of a function is the set of points where the function is not zero, or the closure of that set.
+
+[supp](https://planetmath.org/supportoffunction)
+
 #### 폐포
 위상수학에서, 폐포(閉包, 영어: closure)는 주어진 위상 공간의 부분 집합을 포함하는 가장 작은 닫힌집합이다.[1] 이는 그 부분 집합의 원소와 극한점으로 구성된다.
 #### 위상수학
